@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93b7798d-f8d6-4242-81a3-0de39d073a99" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SonarQube/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SonarQube/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SonarQube.API.Tests/SonarQube.API.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SonarQube.API.Tests/SonarQube.API.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SonarQube.API.Tests/obj/SonarQube.API.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SonarQube.API.Tests/obj/SonarQube.API.Tests.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SonarQube.API.Tests/obj/SonarQube.API.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SonarQube.API.Tests/obj/SonarQube.API.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SonarQube.API.Tests/obj/SonarQube.API.Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SonarQube.API.Tests/obj/SonarQube.API.Tests.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SonarQube.API.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SonarQube.API.Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SonarQube.API.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SonarQube.API.Tests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SonarQube.API/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/SonarQube.API/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SonarQube.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SonarQube.API/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SonarQube.API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SonarQube.API/Startup.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,27 +25,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Dockerfile" value="2" />
-          <entry key="cs" value="6" />
+          <entry key="Dockerfile" value="3" />
+          <entry key="cs" value="7" />
           <entry key="targets" value="1" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="6" />
-          <entry key="Dockerfile" value="2" />
+          <entry key="C#" value="7" />
+          <entry key="Dockerfile" value="3" />
           <entry key="MsBuild targets file" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Dockerfile" value="82" />
-          <entry key="cs" value="967" />
+          <entry key="cs" value="986" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="967" />
+          <entry key="C#" value="986" />
           <entry key="Dockerfile" value="82" />
         </counts>
       </usages-collector>
@@ -90,25 +87,62 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SonarQube.API/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SonarQube.API.Tests/coverage.opencover.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SonarQube.API/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="304">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
-                <marker date="1544887012806" expanded="false" signature="6:255" ph="..." />
-                <marker date="1544887012806" expanded="true" signature="280:607" ph="{...}" />
-                <marker date="1544887012806" expanded="true" signature="307:605" ph="{...}" />
-                <marker date="1544887012806" expanded="true" signature="360:434" ph="{...}" />
+                <marker date="1545073707972" expanded="false" signature="6:294" ph="..." />
+                <marker date="1545073707972" expanded="true" signature="319:683" ph="{...}" />
+                <marker date="1545073707972" expanded="true" signature="383:681" ph="{...}" />
+                <marker date="1545073707972" expanded="true" signature="436:510" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SonarQube.API/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <marker date="1545072906621" expanded="false" signature="6:441" ph="..." />
+                <marker date="1545072906621" expanded="true" signature="466:1449" ph="{...}" />
+                <marker date="1545072906621" expanded="true" signature="523:1447" ph="{...}" />
+                <marker date="1545072906621" expanded="true" signature="582:645" ph="{...}" />
+                <marker date="1545072906621" expanded="true" signature="868:977" ph="{...}" />
+                <marker date="1545072906621" expanded="true" signature="1165:1441" ph="{...}" />
+                <marker date="1545072906621" expanded="true" signature="1212:1289" ph="{...}" />
+                <marker date="1545072906621" expanded="true" signature="1306:1365" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -163,6 +197,7 @@
       <find>Devops</find>
       <find>invalidTokenId</find>
       <find>532677245a12d6ffcfea89a70e32834ab88deed8</find>
+      <find>coverage.</find>
     </findStrings>
     <replaceStrings>
       <replace>SonarQube</replace>
@@ -178,6 +213,7 @@
     <setting file="file://$PROJECT_DIR$/SonarQube.API.Tests/Controllers/ProductControllerShould.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SonarQube.API/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SonarQube.API/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SonarQube.API/Startup.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -187,6 +223,8 @@
         <option value="$PROJECT_DIR$/SonarQube.API/Controllers/ProductController.cs" />
         <option value="$PROJECT_DIR$/SonarQube.API.Tests/Controllers/ProductControllerShould.cs" />
         <option value="$PROJECT_DIR$/SonarQube.API/Dockerfile" />
+        <option value="$PROJECT_DIR$/SonarQube.API/Startup.cs" />
+        <option value="$PROJECT_DIR$/SonarQube.API/Program.cs" />
       </list>
     </option>
   </component>
@@ -239,12 +277,6 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="SonarQube" type="24d0babc:SolutionExplorerModelNode" />
               <item name="SonarQube.API.Tests" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SonarQube" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="SonarQube.API.Tests" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -306,12 +338,12 @@
       <updated>1544886944355</updated>
       <workItem from="1544886947219" duration="438000" />
       <workItem from="1544887469179" duration="7460000" />
-      <workItem from="1545063549239" duration="1932000" />
+      <workItem from="1545063549239" duration="4270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9830000" />
+    <option name="totallyTimeSpent" value="12168000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,7 +358,7 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -336,7 +368,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
-      <window_info active="true" anchor="bottom" id="NuGet" order="7" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="NuGet" order="7" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -414,6 +446,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SonarQube.API/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SonarQube.API.Tests/Controllers/ProductControllerShould.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -436,23 +482,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SonarQube.API/Program.cs">
+    <entry file="file://$PROJECT_DIR$/SonarQube.API.Tests/coverage.opencover.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="266">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SonarQube.API/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
-            <marker date="1544887012806" expanded="false" signature="6:255" ph="..." />
-            <marker date="1544887012806" expanded="true" signature="280:607" ph="{...}" />
-            <marker date="1544887012806" expanded="true" signature="307:605" ph="{...}" />
-            <marker date="1544887012806" expanded="true" signature="360:434" ph="{...}" />
+            <marker date="1545072906621" expanded="false" signature="6:441" ph="..." />
+            <marker date="1545072906621" expanded="true" signature="466:1449" ph="{...}" />
+            <marker date="1545072906621" expanded="true" signature="523:1447" ph="{...}" />
+            <marker date="1545072906621" expanded="true" signature="582:645" ph="{...}" />
+            <marker date="1545072906621" expanded="true" signature="868:977" ph="{...}" />
+            <marker date="1545072906621" expanded="true" signature="1165:1441" ph="{...}" />
+            <marker date="1545072906621" expanded="true" signature="1212:1289" ph="{...}" />
+            <marker date="1545072906621" expanded="true" signature="1306:1365" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SonarQube.API/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/SonarQube.API/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="304">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1545073707972" expanded="false" signature="6:294" ph="..." />
+            <marker date="1545073707972" expanded="true" signature="319:683" ph="{...}" />
+            <marker date="1545073707972" expanded="true" signature="383:681" ph="{...}" />
+            <marker date="1545073707972" expanded="true" signature="436:510" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
