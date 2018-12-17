@@ -11501,7 +11501,7 @@
     ]
   },
   "packageFolders": {
-    "/home/kenerry/.nuget/packages/": {},
+    "/root/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
@@ -11510,14 +11510,14 @@
       "projectUniqueName": "/home/kenerry/workspace/SonarQube/SonarQube.API/SonarQube.API.csproj",
       "projectName": "SonarQube.API",
       "projectPath": "/home/kenerry/workspace/SonarQube/SonarQube.API/SonarQube.API.csproj",
-      "packagesPath": "/home/kenerry/.nuget/packages/",
+      "packagesPath": "/root/.nuget/packages/",
       "outputPath": "/home/kenerry/workspace/SonarQube/SonarQube.API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/kenerry/.config/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -11551,7 +11551,6 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

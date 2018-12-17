@@ -8,6 +8,7 @@
     <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" t="Include" />
     <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Dockerfile" t="Include" />
       <e p="SonarQube.API" t="IncludeRecursive">
         <e p="Controllers" t="Include">
           <e p="ProductController.cs" t="Include" />
@@ -40,6 +41,7 @@
         </e>
         <e p="SonarQube.API.Tests.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="coverage.opencover.xml" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.1" t="Include">
