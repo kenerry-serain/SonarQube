@@ -1,0 +1,27 @@
+version: '3.3'
+
+networks:
+        sonarqube-network:
+                driver: 'bridge'
+
+services:
+        sonarqube-webapi:
+                image: sonarqube-webapi
+                container_name: sonarqube-webapi 
+                build:
+                        context: /home/kenerry/workspace/SonarQube/
+                        dockerfile: SonarQube.API/Dockerfile
+                depends_on:
+                        - sonarqube
+                networks:
+                        - sonarqube-network
+
+        sonarqube:
+                image: sonarqube
+                container_name: sonarqube
+                networks:
+                        - sonarqube-network
+
+                        
+                        
+

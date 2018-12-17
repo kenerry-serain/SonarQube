@@ -1,0 +1,14 @@
+/home/kenerry/workspace/SonarQube/SonarQube.API/bin/Debug/netcoreapp2.1/SonarQube.API.deps.json
+/home/kenerry/workspace/SonarQube/SonarQube.API/bin/Debug/netcoreapp2.1/SonarQube.API.runtimeconfig.json
+/home/kenerry/workspace/SonarQube/SonarQube.API/bin/Debug/netcoreapp2.1/SonarQube.API.runtimeconfig.dev.json
+/home/kenerry/workspace/SonarQube/SonarQube.API/bin/Debug/netcoreapp2.1/SonarQube.API.dll
+/home/kenerry/workspace/SonarQube/SonarQube.API/bin/Debug/netcoreapp2.1/SonarQube.API.pdb
+/home/kenerry/workspace/SonarQube/SonarQube.API/obj/Debug/netcoreapp2.1/SonarQube.API.csprojAssemblyReference.cache
+/home/kenerry/workspace/SonarQube/SonarQube.API/obj/Debug/netcoreapp2.1/SonarQube.API.csproj.CoreCompileInputs.cache
+/home/kenerry/workspace/SonarQube/SonarQube.API/obj/Debug/netcoreapp2.1/SonarQube.API.RazorAssemblyInfo.cache
+/home/kenerry/workspace/SonarQube/SonarQube.API/obj/Debug/netcoreapp2.1/SonarQube.API.RazorAssemblyInfo.cs
+/home/kenerry/workspace/SonarQube/SonarQube.API/obj/Debug/netcoreapp2.1/SonarQube.API.AssemblyInfoInputs.cache
+/home/kenerry/workspace/SonarQube/SonarQube.API/obj/Debug/netcoreapp2.1/SonarQube.API.AssemblyInfo.cs
+/home/kenerry/workspace/SonarQube/SonarQube.API/obj/Debug/netcoreapp2.1/SonarQube.API.RazorTargetAssemblyInfo.cache
+/home/kenerry/workspace/SonarQube/SonarQube.API/obj/Debug/netcoreapp2.1/SonarQube.API.dll
+/home/kenerry/workspace/SonarQube/SonarQube.API/obj/Debug/netcoreapp2.1/SonarQube.API.pdb

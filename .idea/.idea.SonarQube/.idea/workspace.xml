@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93b7798d-f8d6-4242-81a3-0de39d073a99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SonarQube/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SonarQube/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SonarQube/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SonarQube/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SonarQube/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarQube.API/Controllers/ProductController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarQube.API/Models/Product.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-800501784">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="2" />
+          <entry key="cs" value="5" />
+          <entry key="targets" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="5" />
+          <entry key="Dockerfile" value="2" />
+          <entry key="MsBuild targets file" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="82" />
+          <entry key="cs" value="967" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="967" />
+          <entry key="Dockerfile" value="82" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SonarQube.API/Models/Product.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SonarQube.API/Controllers/ProductController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <marker date="1544889103035" expanded="false" signature="6:135" ph="..." />
+                <marker date="1544889103035" expanded="true" signature="280:3615" ph="{...}" />
+                <marker date="1544889103035" expanded="true" signature="392:492" ph="/// Select all products ... " />
+                <marker date="1544889103035" expanded="true" signature="620:772" ph="{...}" />
+                <marker date="1544889103035" expanded="true" signature="791:933" ph="/// Select a single product ... " />
+                <marker date="1544889103035" expanded="true" signature="1160:1519" ph="{...}" />
+                <marker date="1544889103035" expanded="true" signature="1537:1685" ph="/// Creates a single product ... " />
+                <marker date="1544889103035" expanded="true" signature="1806:1924" ph="{...}" />
+                <marker date="1544889103035" expanded="true" signature="1934:2120" ph="/// Updates a single product ... " />
+                <marker date="1544889103035" expanded="true" signature="2356:2820" ph="{...}" />
+                <marker date="1544889103035" expanded="true" signature="2855:2998" ph="/// Removes a single product ... " />
+                <marker date="1544889103035" expanded="true" signature="3209:3609" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SonarQube.API/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="92" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ED07561A-F00F-4966-8EBC-547EA3E7CE17/3c/0e5c0a8f/ControllerBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="1893" column="33" selection-start-line="1893" selection-start-column="33" selection-end-line="1893" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SonarQube.API.Tests/Controllers/ProductControllerShould.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1544894345976" expanded="false" signature="6:139" ph="..." />
+                <marker date="1544894345976" expanded="true" signature="182:4521" ph="{...}" />
+                <marker date="1544894345976" expanded="true" signature="225:4519" ph="{...}" />
+                <marker date="1544894345976" expanded="true" signature="421:771" ph="{...}" />
+                <marker date="1544894345976" expanded="true" signature="900:1059" ph="{...}" />
+                <marker date="1544894345976" expanded="true" signature="1171:1334" ph="{...}" />
+                <marker date="1544894345976" expanded="true" signature="1437:1880" ph="{...}" />
+                <marker date="1544894345976" expanded="true" signature="2017:2249" ph="{...}" />
+                <marker date="1544894345976" expanded="true" signature="2403:2627" ph="{...}" />
+                <marker date="1544894345976" expanded="true" signature="2773:3480" ph="{...}" />
+                <marker date="1544894345976" expanded="true" signature="3591:3767" ph="{...}" />
+                <marker date="1544894345976" expanded="true" signature="3895:4069" ph="{...}" />
+                <marker date="1544894345976" expanded="true" signature="4176:4513" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/share/dotnet/sdk/2.1.403/Microsoft.Common.CurrentVersion.targets">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40033">
+              <caret line="2107" column="20" selection-start-line="2107" selection-start-column="20" selection-end-line="2107" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Devops</find>
+      <find>invalidTokenId</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>SonarQube</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ED07561A-F00F-4966-8EBC-547EA3E7CE17/3c/0e5c0a8f/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SonarQube.API/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SonarQube.API.Tests/Controllers/ProductControllerShould.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SonarQube.API/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SonarQube.API.Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/SonarQube.API/Models/Product.cs" />
+        <option value="$PROJECT_DIR$/SonarQube.API/Controllers/ProductController.cs" />
+        <option value="$PROJECT_DIR$/SonarQube.API/Dockerfile" />
+        <option value="$PROJECT_DIR$/SonarQube.API.Tests/Controllers/ProductControllerShould.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="210" />
+    <option name="y" value="506" />
+    <option name="width" value="1243" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SonarQube" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SonarQube" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SonarQube.API" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SonarQube" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SonarQube.API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SonarQube" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SonarQube.API" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SonarQube" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SonarQube.API.Tests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SonarQube" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SonarQube.API.Tests" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dockerfile" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93b7798d-f8d6-4242-81a3-0de39d073a99" name="Default Changelist" comment="" />
+      <created>1544886944355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544886944355</updated>
+      <workItem from="1544886947219" duration="438000" />
+      <workItem from="1544887469179" duration="7460000" />
+      <workItem from="1545063549239" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8494000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32972974" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="11" visible="true" weight="0.42486486" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="REST Client" order="14" weight="0.32972974" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.28648648" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SonarQube.API.Tests/UnitTest1.cs" />
+    <entry file="file://$PROJECT_DIR$/SonarQube.API/Models/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SonarQube.API/Controllers/ProductController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <marker date="1544889103035" expanded="false" signature="6:135" ph="..." />
+            <marker date="1544889103035" expanded="true" signature="280:3615" ph="{...}" />
+            <marker date="1544889103035" expanded="true" signature="392:492" ph="/// Select all products ... " />
+            <marker date="1544889103035" expanded="true" signature="620:772" ph="{...}" />
+            <marker date="1544889103035" expanded="true" signature="791:933" ph="/// Select a single product ... " />
+            <marker date="1544889103035" expanded="true" signature="1160:1519" ph="{...}" />
+            <marker date="1544889103035" expanded="true" signature="1537:1685" ph="/// Creates a single product ... " />
+            <marker date="1544889103035" expanded="true" signature="1806:1924" ph="{...}" />
+            <marker date="1544889103035" expanded="true" signature="1934:2120" ph="/// Updates a single product ... " />
+            <marker date="1544889103035" expanded="true" signature="2356:2820" ph="{...}" />
+            <marker date="1544889103035" expanded="true" signature="2855:2998" ph="/// Removes a single product ... " />
+            <marker date="1544889103035" expanded="true" signature="3209:3609" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SonarQube.API/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="92" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ED07561A-F00F-4966-8EBC-547EA3E7CE17/3c/0e5c0a8f/ControllerBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1893" column="33" selection-start-line="1893" selection-start-column="33" selection-end-line="1893" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/share/dotnet/sdk/2.1.403/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40033">
+          <caret line="2107" column="20" selection-start-line="2107" selection-start-column="20" selection-end-line="2107" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SonarQube.API.Tests/Controllers/ProductControllerShould.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1544894345976" expanded="false" signature="6:139" ph="..." />
+            <marker date="1544894345976" expanded="true" signature="182:4521" ph="{...}" />
+            <marker date="1544894345976" expanded="true" signature="225:4519" ph="{...}" />
+            <marker date="1544894345976" expanded="true" signature="421:771" ph="{...}" />
+            <marker date="1544894345976" expanded="true" signature="900:1059" ph="{...}" />
+            <marker date="1544894345976" expanded="true" signature="1171:1334" ph="{...}" />
+            <marker date="1544894345976" expanded="true" signature="1437:1880" ph="{...}" />
+            <marker date="1544894345976" expanded="true" signature="2017:2249" ph="{...}" />
+            <marker date="1544894345976" expanded="true" signature="2403:2627" ph="{...}" />
+            <marker date="1544894345976" expanded="true" signature="2773:3480" ph="{...}" />
+            <marker date="1544894345976" expanded="true" signature="3591:3767" ph="{...}" />
+            <marker date="1544894345976" expanded="true" signature="3895:4069" ph="{...}" />
+            <marker date="1544894345976" expanded="true" signature="4176:4513" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

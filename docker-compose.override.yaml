@@ -1,0 +1,12 @@
+version: '3.3'
+
+services:
+        sonarqube-webapi:
+                environment:
+                        - ASPNETCORE_ENVIRONMENT=Development
+                ports: 
+                        - 8080:80
+
+        sonarqube:
+                ports:
+                        - 9001:9000
